@@ -12,29 +12,26 @@
 					</li>
 					</ol>
 				</nav>
-                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md">Copa Black Friday</h1>	
+                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md">¡Prepárate para un Black Friday con tarifas!</h1>	
            
             </div>
 	</div>
 </div>
 <div class="w-full my-32">
     <div class="container mx-auto">
-        	
-        <h2 class="!font-heading font-heading-bold text-primary text-h2-sm lg:text-h2-lg md:text-h2-md text-center ">¡<span class="text-grey-800">Black Friday</span>, las mejores tarifas del año! <br>Descubre nuestras ofertas imperdibles y ahorra como nunca.</h2>	
-    
-        <div class="my-16">
-            <h3 class="!font-heading font-heading-bold !text-secondary text-h3-sm lg:text-h3-lg md:text-h3-md text-center ">
-                Faltan:</h3>
-          
-            <h3 class="!font-heading font-heading-bold !text-secondary text-h3-sm lg:text-h3-lg md:text-h3-md text-center ">
-                Para <span class="text-grey-800">Black Friday</span></h3>
-        </div>
         
-    
-    
-            <h3 class="font-heading font-heading-bold text-primary-dark text-h3-sm lg:text-h3-lg md:text-h3-md text-center  my-32">
-                Guarda esta pagina en tu favoritos para futuras tarifas flash.</h3>
-           
+        <div class="my-16">
+         
+          
+            <h2 class="!font-heading font-heading-bold text-primary text-h2-sm lg:text-h2-lg md:text-h2-md text-center ">
+                La cuenta regresiva para el evento de compras más esperado del año<br> ha comenzado.</h2>
+
+       
+              
+        </div>
+        <h3 class="!font-sans font-heading-bold !text-secondary text-h3-sm lg:text-h3-lg md:text-h3-md text-center ">¿Estás listo para nuestras tarifas de Black Friday?<br> Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento.</h3>
+
+
 
             <div class="flex justify-center items-center ">
                 <button class="button" type="button">Guardar en favoritos</button>
