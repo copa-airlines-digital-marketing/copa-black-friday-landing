@@ -12,19 +12,40 @@
 					</li>
 					</ol>
 				</nav>
-                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un Black Friday lleno de Ofertas</h1>	
-                <h2 class=" font-sans text-caption md:text-caption-large text-grey-75">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. ¡Mantente atento y no te pierdas de un Black Friday lleno de ofertas que te esperan!</h2>
+                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un <span class="!text-secondary">Black Friday</span> lleno de Ofertas</h1>	
+                <h2 class=" font-sans text-caption md:text-caption-large text-grey-100">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. ¡Mantente atento <br> y no te pierdas de un Black Friday lleno de ofertas que te esperan!</h2>
 
             </div>
 	</div>
 </div>
 <div class="w-full my-32">
     <div class="container mx-auto">
+        <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center mt-16">
+          ¡Falta:
+       </h4> 
+
+       <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center pb-16">
+        para <strong>Black Friday!</strong> 
+     </h4> 
         
-        <h3 class="!font-heading text-grey-700 text-h3-sm lg:text-h3-lg md:text-h3-md text-center mt-16">
-             No te pierdas nuestras tarifas de Black Friday, <strong >guarda esta página en tus favoritos</strong> o suscríbete para recibir promociones, tarifas exclusivas y ofertas de último minuto.
-        </h3> 
-        <iframe frameborder="0" height="800px" id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" title="TIMATIC" width="100%"></iframe>
+        <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center mt-16">
+             No te pierdas nuestras tarifas de <strong>Black Friday</strong>, <strong >guarda esta página en tus favoritos</strong> o suscríbete <br> para recibir promociones, tarifas exclusivas y ofertas de último minuto.
+        </h4> 
+
+
+        <h3 class="!font-heading font-heading-bold text-primary text-h3 md:text-h3-lg  pt-64  ">Completa tus datos para recibir nuestras promociones
+        </h3>
+
+        <div class="flex justify-between items-start">
+            <img src="https://picsum.photos/400/320" alt="" srcset="" class=" rounded-2xl mt-56  " >
+            <iframe frameborder="0" height="475px" id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" class="" title="TIMATIC" width="68%"></iframe>
+            
+          
+        </div>
+       
+        
+
+      
 
        
 
