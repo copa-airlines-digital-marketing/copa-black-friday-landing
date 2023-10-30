@@ -12,35 +12,21 @@
 					</li>
 					</ol>
 				</nav>
-                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md">¡Prepárate para un Black Friday con tarifas!</h1>	
-           
+                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un Black Friday lleno de Ofertas</h1>	
+                <h2 class=" font-sans text-caption md:text-caption-large text-grey-75">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. ¡Mantente atento y no te pierdas de un Black Friday lleno de ofertas que te esperan!</h2>
+
             </div>
 	</div>
 </div>
 <div class="w-full my-32">
     <div class="container mx-auto">
         
-        <div class="my-16">
-         
-          
-            <h2 class="!font-heading text-primary-dark text-h2-sm lg:text-h2-lg md:text-h2-md text-center ">
-                Guarda esta página en tus favoritos porque la cuenta regresiva
-para el evento de compras más esperado del año
-ha comenzado</h2>
+        <h3 class="!font-heading text-grey-700 text-h3-sm lg:text-h3-lg md:text-h3-md text-center mt-16">
+             No te pierdas nuestras tarifas de Black Friday, <strong >guarda esta página en tus favoritos</strong> o suscríbete para recibir promociones, tarifas exclusivas y ofertas de último minuto.
+        </h3> 
+        <iframe frameborder="0" height="800px" id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" title="TIMATIC" width="100%"></iframe>
 
        
-              
-        </div>
-        <h3 class="!font-sans  text-primary text-h3-sm lg:text-h3-lg md:text-h3-md text-center ">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. 
-        </h3>
-        <br>
-        <h4 class="!font-sans  text-primary text-h4-sm lg:text-h4-lg md:text-h4-md text-center ">
-            ¿Estás listo para nuestras tarifas?
-            <br>
-            ¡Mantente atento y no te pierdas de un Black Friday lleno de ofertas que te esperan!"
-        </h4>
-      
-
 
               
     </div>
