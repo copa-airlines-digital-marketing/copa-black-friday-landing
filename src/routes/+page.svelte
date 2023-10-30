@@ -23,19 +23,25 @@
         <div class="my-16">
          
           
-            <h2 class="!font-heading font-heading-bold text-primary text-h2-sm lg:text-h2-lg md:text-h2-md text-center ">
-                La cuenta regresiva para el evento de compras más esperado del año<br> ha comenzado.</h2>
+            <h2 class="!font-heading text-primary-dark text-h2-sm lg:text-h2-lg md:text-h2-md text-center ">
+                Guarda esta página en tus favoritos porque la cuenta regresiva
+para el evento de compras más esperado del año
+ha comenzado</h2>
 
        
               
         </div>
-        <h3 class="!font-sans font-heading-bold !text-secondary text-h3-sm lg:text-h3-lg md:text-h3-md text-center ">¿Estás listo para nuestras tarifas de Black Friday?<br> Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento.</h3>
+        <h3 class="!font-sans  text-primary text-h3-sm lg:text-h3-lg md:text-h3-md text-center ">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. 
+        </h3>
+        <br>
+        <h4 class="!font-sans  text-primary text-h4-sm lg:text-h4-lg md:text-h4-md text-center ">
+            ¿Estás listo para nuestras tarifas?
+            <br>
+            ¡Mantente atento y no te pierdas de un Black Friday lleno de ofertas que te esperan!"
+        </h4>
+      
 
 
-
-            <div class="flex justify-center items-center ">
-                <button class="button" type="button">Guardar en favoritos</button>
-              </div>
               
     </div>
 </div>
