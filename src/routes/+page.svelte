@@ -29,7 +29,7 @@
      </h4> 
         
         <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center mt-16">
-             No te pierdas nuestras tarifas de <strong>Black Friday</strong>, <strong >guarda esta página en tus favoritos</strong> o suscríbete <br> para recibir promociones, tarifas exclusivas y ofertas de último minuto.
+             No te pierdas nuestras tarifas de <strong>Black Friday</strong>, <strong >guarda esta página en tus favoritos</strong> 
         </h4> 
 
 
