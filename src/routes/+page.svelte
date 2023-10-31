@@ -12,44 +12,35 @@
 					</li>
 					</ol>
 				</nav>
-                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un <span class="!text-secondary">Black Friday</span> lleno de Ofertas</h1>	
-                <h2 class=" font-sans text-18/24 text-grey-100">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. ¡Mantente atento <br> y no te pierdas de un Black Friday lleno de ofertas que te esperan!</h2>
+                <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un <span class="text-grey-800">Black Friday</span> lleno de ofertas</h1>	
+                <h2 class=" font-sans text-18/24 text-grey-100 max-w-prose">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. ¡Mantente atento  y no te pierdas de un Black Friday lleno de ofertas que te esperan!</h2>
 
             </div>
 	</div>
 </div>
-<div class="w-full my-32">
+<div class="w-full my-32 overflow-x-hidden">
     <div class="container mx-auto">
-        <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center mt-16">
+        <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center pt-48">
           ¡Falta:
        </h4> 
 
-       <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center pb-16">
-        para <strong>Black Friday!</strong> 
+       <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center pb-48">
+        para <span class="text-grey-800">Black Friday!</span> 
      </h4> 
         
-        <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center mt-16">
-             No te pierdas nuestras tarifas de <strong>Black Friday</strong>, <strong >guarda esta página en tus favoritos</strong> 
-        </h4> 
-
-
-       
-
-        <div class="flex flex-col lg:flex-row items-start">
-            <img src="https://picsum.photos/400/400" alt="" srcset="" class=" rounded-2xl mt-56  " >
-            <div class="flex-1">
-                <h3 class="!font-heading font-heading-bold text-primary text-h3 md:text-h3-lg pl-48  pt-64  ">Completa tus datos para recibir nuestras promociones
-                </h3>
-                <iframe frameborder="0" height="700" id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" class="" title="TIMATIC" width="100%"></iframe>
-            </div>
-        </div>
-       
-        
-
       
 
+        <h4 class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center mt-16 pb-72 "> No te pierdas nuestras tarifas de <span class="text-grey-800">Black Friday</span>, <strong >guarda esta página en tus favoritos</strong> 
+        </h4>
+
        
 
-              
+        <div class=" grid grid-cols-1 auto-rows-auto gap-16 relative md:grid-cols-2 md:grid-rows-[auto_1fr] md:gap-x-24 lg:grid-cols-[1fr_2fr]">
+            <img src="https://picsum.photos/400/400" alt="" srcset="" class=" rounded-2xl w-full h-auto order-last z-10 md:order-first md:row-span-2 object-cover md:h-full lg:max-h-[485px]" >
+            <h4 class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg max-w-prose text-center z-10 md:text-left ">Completa tus datos para recibir nuestras promociones
+            </h4>
+             <iframe frameborder="0"  id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" class="h-[556px] -my-[35px] -mx-[calc(2.5%+24px)] z-0 w-[calc(105%+48px)] lg:-mx-[calc(2.5%+24px)]" title="TIMATIC" width="100%"></iframe>
+            
+        </div>             
     </div>
 </div>
