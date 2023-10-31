@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://copa-airlines-digital-marketing.github.io/copa-black-friday-landing/copa-black-friday.css">
+
+   <link rel="stylesheet" href="https://copa-airlines-digital-marketing.github.io/copa-black-friday-landing/copa-black-friday.css">
     <title>Copa Black Friday</title>
     
 </head>
@@ -23,7 +24,7 @@
                         </ol>
                     </nav>
                     <h1 class="font-heading font-heading-bold text-grey-75 text-h1-sm lg:text-h1-lg md:text-h1-md mb-8">Un <span class="!text-secondary">Black Friday</span> lleno de Ofertas</h1>	
-                    <h2 class=" font-sans text-caption md:text-caption-large text-grey-100">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. ¡Mantente atento <br> y no te pierdas de un Black Friday lleno de ofertas que te esperan!</h2>
+                    <h2 class=" font-sans text-18/24 text-grey-100">Estamos preparando una selección de tarifas en vuelos que te dejarán sin aliento. ¡Mantente atento <br> y no te pierdas de un Black Friday lleno de ofertas que te esperan!</h2>
     
                 </div>
         </div>
@@ -32,9 +33,9 @@
     <div class="w-full my-32">
         <div class="container mx-auto ">
             <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center mt-16">
-                ¡Falta:
+                ¡Faltan:
              </h4> 
-             <countdown-timer enddate="2023-11-24T00:00:00-05:00" tickrate="1000" lang="es"> </countdown-timer>
+             <countdown-timer enddate="2023-11-24T00:00:00-05:00" tickrate="1000" lang="es" > </countdown-timer>
              <h4 class="!font-heading text-grey-600 text-h4-sm lg:text-h4-lg md:text-h4-md text-center pb-16">
                 para <strong>Black Friday!</strong> 
              </h4>  
@@ -45,14 +46,13 @@
    
    
   
-           <h3 class="!font-heading font-heading-bold text-primary text-h3 md:text-h3-lg  pt-64  ">Completa tus datos para recibir nuestras promociones
-        </h3>
-
-        <div class="flex justify-between items-start">
-            <img src="https://picsum.photos/400/320" alt="" srcset="" class=" rounded-2xl mt-56  " >
-            <iframe frameborder="0" height="475px" id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" class="" title="TIMATIC" width="68%"></iframe>
-            
-          
+           <div class="flex flex-col lg:flex-row items-start">
+            <img src="https://picsum.photos/400/400" alt="" srcset="" class=" rounded-2xl mt-56  " >
+            <div class="flex-1">
+                <h3 class="!font-heading font-heading-bold text-primary text-h3 md:text-h3-lg pl-48  pt-64  ">Completa tus datos para recibir nuestras promociones
+                </h3>
+                <iframe frameborder="0" height="700" id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" class="" title="TIMATIC" width="100%"></iframe>
+            </div>
         </div>
        
        
@@ -495,7 +495,7 @@
         customElements.define("countdown-timer", class extends M {
             constructor(t) {
                 super(), this.shadowRoot.innerHTML =
-                    '<style>.countdown-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.countdown-container .time{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:0.5rem}.countdown-container .value{font-size:2rem}.countdown-container .name{font-weight:400}.countdown-container{display:flex;justify-content:center;font-family:"Gilroy";color:#0032a0;font-size:1rem;font-weight:500;text-transform:capitalize}</style>',
+                    '<style>.countdown-container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.countdown-container .time{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:0.5rem}.countdown-container .value{font-size:2rem}.countdown-container .name{font-weight:400}.countdown-container{display:flex;justify-content:center;margin-top:-16px;margin-bottom:-8px;font-family:"Gilroy";color:#0032a0;font-size:1rem;font-weight:500;text-transform:capitalize}</style>',
                     T(this, {
                         target: this.shadowRoot,
                         props: h(this.attributes),
