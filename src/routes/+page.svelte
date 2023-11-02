@@ -21,12 +21,12 @@
 <div class="w-full my-32 overflow-y-hidden">
     <div class="container mx-auto">
         <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center  pt-48">
-          ¡Faltan:
+          Faltan:
        </p> 
        <countdown-timer enddate="2023-11-24T00:00:00-05:00" tickrate="1000" lang="es" > </countdown-timer>
 
        <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center pb-48">
-        para <span class="text-grey-800 font-heading-bold">Black Friday!</span> 
+        para <span class="text-grey-800 font-heading-bold">¡Black Friday!</span> 
      </p> 
         
       
