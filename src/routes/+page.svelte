@@ -18,27 +18,27 @@
             </div>
 	</div>
 </div>
-<div class="w-full my-32 overflow-y-hidden">
+<div class="!w-full !my-32 !overflow-y-hidden">
     <div class="container mx-auto">
-        <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center  pt-48">
+        <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center  !pt-48">
           Faltan:
        </p> 
        <countdown-timer enddate="2023-11-24T00:00:00-05:00" tickrate="1000" lang="es" > </countdown-timer>
 
-       <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center pb-48">
+       <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center !pb-48">
         para <span class="text-grey-800 font-heading-bold">¡Black Friday!</span> 
      </p> 
         
       
 
-        <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center mt-16 pb-72 max-w-prose mx-auto "> No dejes escapar la oportunidad de comprar tu próximo viaje este <span class="text-grey-800 font-heading-bold">Black Friday</span>, <span class="text-primary font-heading-bold"><br>guarda esta página en tus favoritos</span> y cuando acabe el tiempo, regresa y reserva tu asiento con Copa Airlines.
+        <p class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg  text-center !mt-16 !pb-72 max-w-prose mx-auto "> No dejes escapar la oportunidad de comprar tu próximo viaje este <span class="text-grey-800 font-heading-bold">Black Friday</span>, <span class="text-primary font-heading-bold"><br>guarda esta página en tus favoritos</span> y cuando acabe el tiempo, regresa y reserva tu asiento con Copa Airlines.
         </p>
 
        
 
-        <div class=" grid grid-cols-1 !auto-rows-auto gap-16 relative md:!grid-cols-2 md:!grid-rows-[auto_1fr] md:!gap-x-24 lg:!grid-cols-[1fr_2fr]">
-            <img src="https://media.gettyimages.com/id/1415557896/es/foto/piscina-de-relajaci%C3%B3n.webp?s=2048x2048&w=gi&k=20&c=2JTzWW03CzbhiZc5xjshi1_9MrmpQpCSvGPTcREEwRU=" alt="" srcset="" class=" rounded-2xl w-full h-auto !order-last !z-10 md:!order-first md:!row-span-2 object-cover md:!h-full lg:!max-h-[485px]" >
-            <h4 class="!font-heading text-grey-600 text-display-tiny lg:text-display-tiny-lg !max-w-prose text-center z-10 md:!text-left ">  <span class="!text-primary !font-heading-bold">Llena tus datos</span> para suscribirte a esta y muchas más promociones
+        <div class=" grid !grid-cols-1 !auto-rows-auto gap-16 !relative md:!grid-cols-2       md:!grid-rows-[auto_1fr] md:!gap-x-24 lg:!grid-cols-[1fr_2fr]">
+            <img src="https://media.gettyimages.com/id/1415557896/es/foto/piscina-de-relajaci%C3%B3n.webp?s=2048x2048&w=gi&k=20&c=2JTzWW03CzbhiZc5xjshi1_9MrmpQpCSvGPTcREEwRU=" alt="" srcset="" class=" rounded-2xl w-full h-auto !order-last !z-10 md:!order-first md:!row-span-2 !object-cover md:!h-full lg:!max-h-[485px]" >
+            <h4 class="!font-heading text-grey-600 !text-display-tiny lg:!text-display-tiny-lg !max-w-prose text-center !z-10 md:!text-left ">  <span class="!text-primary !font-heading-bold">Llena tus datos</span> para suscribirte a esta y muchas más promociones
             </h4>
              <iframe frameborder="0"  id="inlineTimatic" src="https://email.copa.com/p/2EUB-6KO/espromocionesweb" class="!h-[556px] !-my-[35px] !-mx-[calc(2.5%+24px)] !z-0 !w-[calc(105%+48px)] lg:!-mx-[calc(2.5%+24px)]" title="TIMATIC" width="100%"></iframe>
             
